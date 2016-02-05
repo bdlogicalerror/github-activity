@@ -1,1 +1,1 @@
-[2016-02-05 20:06:23] perf(db): optimize query indexes and connection pooling
+[2016-02-05 20:22:38] test(unit): add assertions for boundary conditions
