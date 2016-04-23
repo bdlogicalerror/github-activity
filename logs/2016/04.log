@@ -1,1 +1,1 @@
-[2016-04-23 13:52:24] test(unit): add assertions for boundary conditions
+[2016-04-23 16:02:33] perf(render): memoize expensive calculations
