@@ -1,1 +1,1 @@
-[2016-08-11 15:43:32] chore(ci): update workflow configuration and runner cache
+[2016-08-11 18:25:22] refactor(core): streamline state machine event dispatcher
