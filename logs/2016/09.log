@@ -1,1 +1,1 @@
-[2016-09-26 09:56:37] fix(auth): handle edge case in token expiration logic
+[2016-09-26 14:53:36] fix(auth): handle edge case in token expiration logic
