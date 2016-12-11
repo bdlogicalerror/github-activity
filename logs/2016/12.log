@@ -1,1 +1,1 @@
-[2016-12-11 12:51:44] fix(parser): resolve unexpected EOF on malformed input
+[2016-12-11 13:07:42] perf(db): optimize query indexes and connection pooling
