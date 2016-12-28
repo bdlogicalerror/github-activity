@@ -1,1 +1,1 @@
-[2016-12-28 22:06:56] test(unit): add assertions for boundary conditions
+[2016-12-28 22:13:32] refactor(utils): extract helper functions into module
