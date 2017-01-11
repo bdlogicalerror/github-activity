@@ -1,1 +1,1 @@
-[2017-01-11 16:50:02] docs(api): clarify parameter descriptions and examples
+[2017-01-11 17:16:06] perf: optimize memory footprint during batch processing
