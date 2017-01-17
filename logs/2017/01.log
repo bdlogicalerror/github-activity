@@ -1,1 +1,1 @@
-[2017-01-17 17:54:11] refactor(utils): extract helper functions into module
+[2017-01-17 19:42:08] perf: optimize memory footprint during batch processing
