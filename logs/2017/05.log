@@ -1,1 +1,1 @@
-[2017-05-13 21:46:18] feat(api): add endpoint validation and error schemas
+[2017-05-13 22:11:29] perf(render): memoize expensive calculations
