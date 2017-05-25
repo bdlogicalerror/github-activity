@@ -1,1 +1,1 @@
-[2017-05-25 22:59:40] perf(db): optimize query indexes and connection pooling
+[2017-05-25 23:34:53] perf(render): memoize expensive calculations
