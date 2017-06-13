@@ -1,1 +1,1 @@
-[2017-06-13 11:21:26] chore(ci): update workflow configuration and runner cache
+[2017-06-13 18:25:55] feat(client): improve retry backoff and timeout handling
