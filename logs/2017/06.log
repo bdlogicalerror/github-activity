@@ -1,1 +1,1 @@
-[2017-06-20 10:41:54] chore(deps): bump internal packages and tooling
+[2017-06-20 10:57:35] feat(worker): implement graceful shutdown for queue listener
