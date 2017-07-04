@@ -1,1 +1,1 @@
-[2017-07-04 13:29:03] docs: update changelog and version notes
+[2017-07-04 13:58:49] feat(worker): implement graceful shutdown for queue listener
