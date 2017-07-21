@@ -1,1 +1,1 @@
-[2017-07-21 10:16:17] fix(cache): invalidate stale keys on mutation
+[2017-07-21 19:59:30] feat(client): improve retry backoff and timeout handling
