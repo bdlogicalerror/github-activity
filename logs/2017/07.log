@@ -1,1 +1,1 @@
-[2017-07-25 23:32:48] feat(config): add support for dynamic environment overrides
+[2017-07-26 09:42:19] refactor(utils): extract helper functions into module
