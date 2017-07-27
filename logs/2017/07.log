@@ -1,1 +1,1 @@
-[2017-07-27 20:28:54] feat(worker): implement graceful shutdown for queue listener
+[2017-07-27 20:45:42] feat(worker): implement graceful shutdown for queue listener
