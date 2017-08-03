@@ -1,1 +1,1 @@
-[2017-08-03 18:41:32] refactor(utils): extract helper functions into module
+[2017-08-03 18:59:09] perf(render): memoize expensive calculations
