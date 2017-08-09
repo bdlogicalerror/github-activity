@@ -1,1 +1,1 @@
-[2017-08-09 18:58:14] test(e2e): update integration test suite assertions
+[2017-08-09 19:48:42] perf(db): optimize query indexes and connection pooling
