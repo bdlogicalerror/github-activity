@@ -1,1 +1,1 @@
-[2017-09-01 14:13:57] refactor(types): strengthen type contracts and interfaces
+[2017-09-01 14:42:35] perf(db): optimize query indexes and connection pooling
