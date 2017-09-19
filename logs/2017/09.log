@@ -1,1 +1,1 @@
-[2017-09-19 12:34:43] chore(deps): bump internal packages and tooling
+[2017-09-19 12:35:12] feat(api): add endpoint validation and error schemas
