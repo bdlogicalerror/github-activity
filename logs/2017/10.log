@@ -1,1 +1,1 @@
-[2017-10-11 16:19:22] chore(ci): update workflow configuration and runner cache
+[2017-10-11 20:37:35] refactor(utils): extract helper functions into module
