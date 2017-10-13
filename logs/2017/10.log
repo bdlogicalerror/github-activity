@@ -1,1 +1,1 @@
-[2017-10-13 16:56:06] fix(cache): invalidate stale keys on mutation
+[2017-10-13 18:04:29] perf: optimize memory footprint during batch processing
