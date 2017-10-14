@@ -1,1 +1,1 @@
-[2017-10-14 21:30:44] chore(deps): bump internal packages and tooling
+[2017-10-14 22:00:05] fix(cache): invalidate stale keys on mutation
