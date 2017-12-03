@@ -1,1 +1,1 @@
-[2017-12-03 12:26:15] perf: optimize memory footprint during batch processing
+[2017-12-03 21:34:23] perf(db): optimize query indexes and connection pooling
