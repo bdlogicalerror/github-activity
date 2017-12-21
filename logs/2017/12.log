@@ -1,1 +1,1 @@
-[2017-12-20 11:48:28] refactor(types): strengthen type contracts and interfaces
+[2017-12-21 08:36:06] feat(client): improve retry backoff and timeout handling
