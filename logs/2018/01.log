@@ -1,1 +1,1 @@
-[2018-01-19 16:52:50] chore(ci): update workflow configuration and runner cache
+[2018-01-19 16:56:26] fix(cache): invalidate stale keys on mutation
