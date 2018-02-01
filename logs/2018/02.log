@@ -1,1 +1,1 @@
-[2018-02-01 20:16:36] docs: update changelog and version notes
+[2018-02-01 21:04:41] fix(cache): invalidate stale keys on mutation
