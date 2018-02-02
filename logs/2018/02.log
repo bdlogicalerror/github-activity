@@ -1,1 +1,1 @@
-[2018-02-02 10:13:24] feat(client): improve retry backoff and timeout handling
+[2018-02-02 10:19:42] perf(db): optimize query indexes and connection pooling
