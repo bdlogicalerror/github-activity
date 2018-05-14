@@ -1,1 +1,1 @@
-[2018-05-14 12:35:14] feat(client): improve retry backoff and timeout handling
+[2018-05-14 12:59:08] test(unit): add assertions for boundary conditions
