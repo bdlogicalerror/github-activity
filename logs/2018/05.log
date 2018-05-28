@@ -1,1 +1,1 @@
-[2018-05-28 12:01:52] fix(cache): invalidate stale keys on mutation
+[2018-05-28 16:02:11] feat(config): add support for dynamic environment overrides
