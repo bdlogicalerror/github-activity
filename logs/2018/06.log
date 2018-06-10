@@ -1,1 +1,1 @@
-[2018-06-10 08:42:09] fix(auth): handle edge case in token expiration logic
+[2018-06-10 10:16:28] chore(deps): bump internal packages and tooling
