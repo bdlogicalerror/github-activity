@@ -1,1 +1,1 @@
-[2018-06-14 11:07:02] perf: optimize memory footprint during batch processing
+[2018-06-14 13:11:33] perf(render): memoize expensive calculations
