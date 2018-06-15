@@ -1,1 +1,1 @@
-[2018-06-15 15:44:38] fix(auth): handle edge case in token expiration logic
+[2018-06-15 17:46:27] perf: optimize memory footprint during batch processing
