@@ -1,1 +1,1 @@
-[2018-07-05 12:00:09] chore(deps): bump internal packages and tooling
+[2018-07-05 12:32:26] refactor(utils): extract helper functions into module
