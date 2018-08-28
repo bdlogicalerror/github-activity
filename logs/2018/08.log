@@ -1,1 +1,1 @@
-[2018-08-28 16:09:24] perf(db): optimize query indexes and connection pooling
+[2018-08-28 19:33:23] feat(config): add support for dynamic environment overrides
