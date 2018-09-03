@@ -1,1 +1,1 @@
-[2018-09-03 09:44:24] refactor(utils): extract helper functions into module
+[2018-09-03 10:14:07] perf(db): optimize query indexes and connection pooling
