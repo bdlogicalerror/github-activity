@@ -1,1 +1,1 @@
-[2018-09-16 17:27:04] fix(cache): invalidate stale keys on mutation
+[2018-09-16 19:57:15] refactor(types): strengthen type contracts and interfaces
