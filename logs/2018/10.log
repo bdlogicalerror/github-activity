@@ -1,1 +1,1 @@
-[2018-10-22 17:56:20] fix(cache): invalidate stale keys on mutation
+[2018-10-22 20:05:09] perf(db): optimize query indexes and connection pooling
