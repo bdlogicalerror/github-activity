@@ -1,1 +1,1 @@
-[2018-10-26 15:51:33] perf(render): memoize expensive calculations
+[2018-10-26 16:21:12] feat(worker): implement graceful shutdown for queue listener
