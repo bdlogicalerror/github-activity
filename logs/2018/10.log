@@ -1,1 +1,1 @@
-[2018-10-26 22:44:25] docs: update changelog and version notes
+[2018-10-27 11:14:36] perf(render): memoize expensive calculations
