@@ -1,1 +1,1 @@
-[2019-01-22 11:05:26] fix(parser): resolve unexpected EOF on malformed input
+[2019-01-22 12:20:48] fix(cache): invalidate stale keys on mutation
