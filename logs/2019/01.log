@@ -1,1 +1,1 @@
-[2019-01-29 11:00:06] feat(client): improve retry backoff and timeout handling
+[2019-01-29 13:01:03] perf(render): memoize expensive calculations
