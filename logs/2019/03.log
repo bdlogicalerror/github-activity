@@ -1,1 +1,1 @@
-[2019-03-13 21:01:26] feat(client): improve retry backoff and timeout handling
+[2019-03-13 22:49:21] feat(worker): implement graceful shutdown for queue listener
