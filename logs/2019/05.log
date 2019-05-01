@@ -1,1 +1,1 @@
-[2019-05-01 18:30:49] refactor(core): streamline state machine event dispatcher
+[2019-05-01 23:03:39] fix(cli): correct flag parsing and default arguments
