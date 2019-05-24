@@ -1,1 +1,1 @@
-[2019-05-24 20:56:03] refactor(core): streamline state machine event dispatcher
+[2019-05-24 20:59:47] perf(db): optimize query indexes and connection pooling
