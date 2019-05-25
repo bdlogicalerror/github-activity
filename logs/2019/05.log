@@ -1,1 +1,1 @@
-[2019-05-25 12:25:32] feat(config): add support for dynamic environment overrides
+[2019-05-25 14:51:11] feat(worker): implement graceful shutdown for queue listener
