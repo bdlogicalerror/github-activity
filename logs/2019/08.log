@@ -1,1 +1,1 @@
-[2019-08-12 12:17:19] fix(cache): invalidate stale keys on mutation
+[2019-08-12 13:25:44] feat(worker): implement graceful shutdown for queue listener
