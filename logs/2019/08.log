@@ -1,1 +1,1 @@
-[2019-08-23 14:41:50] refactor(core): streamline state machine event dispatcher
+[2019-08-23 15:07:36] refactor(utils): extract helper functions into module
