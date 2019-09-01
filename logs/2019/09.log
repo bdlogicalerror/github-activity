@@ -1,1 +1,1 @@
-[2019-09-01 14:17:10] chore(deps): bump internal packages and tooling
+[2019-09-01 16:39:17] perf(db): optimize query indexes and connection pooling
