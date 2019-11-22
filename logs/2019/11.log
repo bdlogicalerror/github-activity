@@ -1,1 +1,1 @@
-[2019-11-22 11:03:35] chore(deps): bump internal packages and tooling
+[2019-11-22 11:45:30] feat(client): improve retry backoff and timeout handling
