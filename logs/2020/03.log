@@ -1,1 +1,1 @@
-[2020-03-12 20:48:57] perf(render): memoize expensive calculations
+[2020-03-12 22:57:48] perf(db): optimize query indexes and connection pooling
