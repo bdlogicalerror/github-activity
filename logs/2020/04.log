@@ -1,1 +1,1 @@
-[2020-04-09 13:48:44] chore(ci): update workflow configuration and runner cache
+[2020-04-09 16:42:58] perf(render): memoize expensive calculations
