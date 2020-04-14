@@ -1,1 +1,1 @@
-[2020-04-14 10:53:52] perf(db): optimize query indexes and connection pooling
+[2020-04-14 15:30:41] perf: optimize memory footprint during batch processing
