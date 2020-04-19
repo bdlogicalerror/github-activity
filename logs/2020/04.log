@@ -1,1 +1,1 @@
-[2020-04-19 16:20:02] feat: enhance telemetry reporting pipeline
+[2020-04-19 18:00:06] fix(cache): invalidate stale keys on mutation
