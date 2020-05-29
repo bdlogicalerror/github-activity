@@ -1,1 +1,1 @@
-[2020-05-29 16:15:09] refactor(core): streamline state machine event dispatcher
+[2020-05-29 17:37:18] fix(cache): invalidate stale keys on mutation
