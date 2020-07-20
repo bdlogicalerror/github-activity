@@ -1,1 +1,1 @@
-[2020-07-20 09:49:46] test(e2e): update integration test suite assertions
+[2020-07-20 11:07:31] fix(cache): invalidate stale keys on mutation
