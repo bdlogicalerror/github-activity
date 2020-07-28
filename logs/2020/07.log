@@ -1,1 +1,1 @@
-[2020-07-28 15:46:10] chore(deps): bump internal packages and tooling
+[2020-07-28 15:49:40] perf(db): optimize query indexes and connection pooling
