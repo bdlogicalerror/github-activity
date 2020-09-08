@@ -1,1 +1,1 @@
-[2020-09-08 11:15:47] chore(ci): update workflow configuration and runner cache
+[2020-09-08 11:37:09] fix(parser): resolve unexpected EOF on malformed input
