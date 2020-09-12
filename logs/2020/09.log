@@ -1,1 +1,1 @@
-[2020-09-12 09:31:28] refactor(types): strengthen type contracts and interfaces
+[2020-09-12 13:08:15] perf(render): memoize expensive calculations
