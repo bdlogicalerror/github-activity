@@ -1,1 +1,1 @@
-[2020-11-02 16:05:54] docs(readme): update setup and architecture notes
+[2020-11-02 16:10:25] perf(render): memoize expensive calculations
