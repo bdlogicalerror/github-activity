@@ -1,1 +1,1 @@
-[2021-07-06 19:21:50] chore: routine maintenance and code cleanup
+[2021-07-07 14:40:50] feat(worker): implement graceful shutdown for queue listener
