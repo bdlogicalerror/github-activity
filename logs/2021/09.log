@@ -1,1 +1,1 @@
-[2021-09-14 12:36:02] docs(readme): update setup and architecture notes
+[2021-09-14 13:37:04] perf(db): optimize query indexes and connection pooling
