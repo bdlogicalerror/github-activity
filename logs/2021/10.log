@@ -1,1 +1,1 @@
-[2021-10-05 23:44:30] docs(readme): update setup and architecture notes
+[2021-10-06 13:02:50] fix(auth): handle edge case in token expiration logic
