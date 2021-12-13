@@ -1,1 +1,1 @@
-[2021-12-13 13:33:44] perf(db): optimize query indexes and connection pooling
+[2021-12-13 14:44:25] feat(worker): implement graceful shutdown for queue listener
