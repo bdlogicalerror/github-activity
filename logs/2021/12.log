@@ -1,1 +1,1 @@
-[2021-12-31 14:52:12] chore(ci): update workflow configuration and runner cache
+[2021-12-31 15:29:48] perf: optimize memory footprint during batch processing
