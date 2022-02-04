@@ -1,1 +1,1 @@
-[2022-02-04 17:05:40] feat(worker): implement graceful shutdown for queue listener
+[2022-02-04 20:18:19] perf: optimize memory footprint during batch processing
