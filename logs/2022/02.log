@@ -1,1 +1,1 @@
-[2022-02-06 21:59:04] perf(render): memoize expensive calculations
+[2022-02-06 22:26:13] fix(auth): handle edge case in token expiration logic
