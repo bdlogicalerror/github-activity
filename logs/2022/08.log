@@ -1,1 +1,1 @@
-[2022-08-02 14:46:08] feat(config): add support for dynamic environment overrides
+[2022-08-02 14:49:56] perf: optimize memory footprint during batch processing
