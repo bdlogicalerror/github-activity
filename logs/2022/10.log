@@ -1,1 +1,1 @@
-[2022-10-09 21:15:59] fix(cli): correct flag parsing and default arguments
+[2022-10-09 22:49:38] feat(client): improve retry backoff and timeout handling
