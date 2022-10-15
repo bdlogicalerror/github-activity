@@ -1,1 +1,1 @@
-[2022-10-15 08:52:32] refactor(types): strengthen type contracts and interfaces
+[2022-10-15 09:06:52] fix(parser): resolve unexpected EOF on malformed input
