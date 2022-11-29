@@ -1,1 +1,1 @@
-[2022-11-29 16:57:37] feat(client): improve retry backoff and timeout handling
+[2022-11-29 17:03:52] test(unit): add assertions for boundary conditions
