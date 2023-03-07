@@ -1,1 +1,1 @@
-[2023-03-07 11:03:14] chore: routine maintenance and code cleanup
+[2023-03-07 21:16:55] fix(parser): resolve unexpected EOF on malformed input
