@@ -1,1 +1,1 @@
-[2023-04-13 18:19:21] perf(db): optimize query indexes and connection pooling
+[2023-04-13 19:12:09] feat(client): improve retry backoff and timeout handling
