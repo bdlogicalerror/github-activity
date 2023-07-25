@@ -1,1 +1,1 @@
-[2023-07-25 23:36:56] docs(api): clarify parameter descriptions and examples
+[2023-07-25 23:39:40] fix(cache): invalidate stale keys on mutation
