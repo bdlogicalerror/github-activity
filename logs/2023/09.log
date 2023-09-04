@@ -1,1 +1,1 @@
-[2023-09-04 12:46:24] perf: optimize memory footprint during batch processing
+[2023-09-04 12:58:13] fix(cli): correct flag parsing and default arguments
