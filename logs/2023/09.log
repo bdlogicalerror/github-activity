@@ -1,1 +1,1 @@
-[2023-09-25 16:20:15] docs: update changelog and version notes
+[2023-09-25 19:45:45] feat(client): improve retry backoff and timeout handling
