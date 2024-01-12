@@ -1,1 +1,1 @@
-[2024-01-11 19:31:02] fix(auth): handle edge case in token expiration logic
+[2024-01-12 10:06:18] feat(client): improve retry backoff and timeout handling
