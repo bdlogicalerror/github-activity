@@ -1,1 +1,1 @@
-[2024-01-25 14:28:33] perf(render): memoize expensive calculations
+[2024-01-25 16:49:08] fix(cli): correct flag parsing and default arguments
