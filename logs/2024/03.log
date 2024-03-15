@@ -1,1 +1,1 @@
-[2024-03-14 23:09:32] fix(parser): resolve unexpected EOF on malformed input
+[2024-03-15 12:28:11] feat(worker): implement graceful shutdown for queue listener
