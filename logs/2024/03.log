@@ -1,1 +1,1 @@
-[2024-03-18 11:40:35] docs(readme): update setup and architecture notes
+[2024-03-18 12:11:58] fix(cache): invalidate stale keys on mutation
