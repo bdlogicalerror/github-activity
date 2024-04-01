@@ -1,0 +1,1 @@
+[2024-04-01 08:42:10] fix(auth): handle edge case in token expiration logic
