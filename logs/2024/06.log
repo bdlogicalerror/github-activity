@@ -1,1 +1,1 @@
-[2024-06-24 19:20:15] docs(api): clarify parameter descriptions and examples
+[2024-06-24 21:24:23] perf(render): memoize expensive calculations
