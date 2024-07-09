@@ -1,1 +1,1 @@
-[2024-07-09 17:43:28] docs(readme): update setup and architecture notes
+[2024-07-09 21:33:26] feat(worker): implement graceful shutdown for queue listener
