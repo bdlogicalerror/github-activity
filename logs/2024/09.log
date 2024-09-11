@@ -1,1 +1,1 @@
-[2024-09-10 21:37:37] chore(deps): bump internal packages and tooling
+[2024-09-11 08:55:17] fix(parser): resolve unexpected EOF on malformed input
