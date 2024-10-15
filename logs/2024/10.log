@@ -1,1 +1,1 @@
-[2024-10-15 16:00:59] docs(api): clarify parameter descriptions and examples
+[2024-10-15 16:26:43] fix(parser): resolve unexpected EOF on malformed input
