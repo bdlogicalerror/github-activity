@@ -1,1 +1,1 @@
-[2024-10-19 12:58:01] feat(config): add support for dynamic environment overrides
+[2024-10-19 13:47:28] fix(cli): correct flag parsing and default arguments
