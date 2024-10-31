@@ -1,1 +1,1 @@
-[2024-10-31 13:00:37] perf(render): memoize expensive calculations
+[2024-10-31 13:07:10] refactor(core): streamline state machine event dispatcher
