@@ -1,1 +1,1 @@
-[2025-01-24 22:34:30] feat: enhance telemetry reporting pipeline
+[2025-01-25 12:58:14] fix(parser): resolve unexpected EOF on malformed input
