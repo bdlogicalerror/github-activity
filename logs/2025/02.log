@@ -1,1 +1,1 @@
-[2025-02-23 17:44:22] chore: routine maintenance and code cleanup
+[2025-02-23 18:39:53] fix(auth): handle edge case in token expiration logic
