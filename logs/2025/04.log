@@ -1,1 +1,1 @@
-[2025-04-02 14:01:41] chore(ci): update workflow configuration and runner cache
+[2025-04-02 14:07:56] fix(cli): correct flag parsing and default arguments
