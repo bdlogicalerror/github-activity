@@ -1,1 +1,1 @@
-[2025-05-22 19:43:08] docs: update changelog and version notes
+[2025-05-22 22:16:33] perf(render): memoize expensive calculations
