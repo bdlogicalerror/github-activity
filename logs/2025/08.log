@@ -1,1 +1,1 @@
-[2025-08-23 21:30:56] feat: enhance telemetry reporting pipeline
+[2025-08-23 22:06:52] feat(client): improve retry backoff and timeout handling
