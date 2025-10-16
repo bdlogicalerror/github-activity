@@ -1,1 +1,1 @@
-[2025-10-16 21:12:35] docs(readme): update setup and architecture notes
+[2025-10-16 23:06:57] fix(parser): resolve unexpected EOF on malformed input
