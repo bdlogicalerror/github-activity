@@ -1,1 +1,1 @@
-[2025-11-20 17:11:08] docs(api): clarify parameter descriptions and examples
+[2025-11-20 17:13:27] fix(auth): handle edge case in token expiration logic
