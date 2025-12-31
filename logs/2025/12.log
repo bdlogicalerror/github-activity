@@ -1,1 +1,1 @@
-[2025-12-31 20:41:13] chore(deps): bump internal packages and tooling
+[2025-12-31 21:43:32] perf(render): memoize expensive calculations
