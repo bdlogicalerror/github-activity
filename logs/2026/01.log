@@ -1,1 +1,1 @@
-[2026-01-07 23:08:32] perf(db): optimize query indexes and connection pooling
+[2026-01-07 23:16:14] feat(api): add endpoint validation and error schemas
