@@ -1,1 +1,1 @@
-[2026-01-08 19:40:59] refactor(types): strengthen type contracts and interfaces
+[2026-01-08 19:44:18] fix(auth): handle edge case in token expiration logic
