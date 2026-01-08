@@ -1,1 +1,1 @@
-[2026-01-08 20:31:39] fix(cli): correct flag parsing and default arguments
+[2026-01-08 20:32:27] fix(cache): invalidate stale keys on mutation
