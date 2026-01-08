@@ -1,1 +1,1 @@
-[2026-01-08 08:35:28] docs: update changelog and version notes
+[2026-01-08 08:36:55] feat(client): improve retry backoff and timeout handling
