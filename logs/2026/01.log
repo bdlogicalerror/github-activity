@@ -1,1 +1,1 @@
-[2026-01-08 22:00:45] refactor(utils): extract helper functions into module
+[2026-01-08 22:08:08] fix(cache): invalidate stale keys on mutation
