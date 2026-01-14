@@ -1,1 +1,1 @@
-[2026-01-14 11:48:39] fix(parser): resolve unexpected EOF on malformed input
+[2026-01-14 11:51:59] feat(client): improve retry backoff and timeout handling
