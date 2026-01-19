@@ -1,1 +1,1 @@
-[2026-01-19 10:18:41] test(unit): add assertions for boundary conditions
+[2026-01-19 10:18:18] fix(cache): invalidate stale keys on mutation
