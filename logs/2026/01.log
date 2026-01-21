@@ -1,1 +1,1 @@
-[2026-01-21 23:15:23] chore: routine maintenance and code cleanup
+[2026-01-21 23:16:29] fix(cache): invalidate stale keys on mutation
