@@ -1,1 +1,1 @@
-[2026-01-21 11:05:01] perf(db): optimize query indexes and connection pooling
+[2026-01-21 11:06:34] fix(cli): correct flag parsing and default arguments
