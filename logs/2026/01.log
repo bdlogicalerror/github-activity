@@ -1,1 +1,1 @@
-[2026-01-22 09:01:43] chore(deps): bump internal packages and tooling
+[2026-01-22 09:03:13] fix(cli): correct flag parsing and default arguments
