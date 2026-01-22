@@ -1,1 +1,1 @@
-[2026-01-22 20:20:13] perf(db): optimize query indexes and connection pooling
+[2026-01-22 20:21:52] refactor(core): streamline state machine event dispatcher
