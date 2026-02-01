@@ -1,1 +1,1 @@
-[2026-02-01 16:33:28] feat(worker): implement graceful shutdown for queue listener
+[2026-02-01 16:34:08] fix(cache): invalidate stale keys on mutation
