@@ -1,1 +1,1 @@
-[2026-02-04 18:18:13] perf(db): optimize query indexes and connection pooling
+[2026-02-04 18:20:52] fix(auth): handle edge case in token expiration logic
