@@ -1,1 +1,1 @@
-[2026-02-04 12:51:37] refactor(core): streamline state machine event dispatcher
+[2026-02-04 12:56:47] feat(worker): implement graceful shutdown for queue listener
