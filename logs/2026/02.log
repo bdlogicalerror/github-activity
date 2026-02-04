@@ -1,1 +1,1 @@
-[2026-02-04 13:02:25] fix(cache): invalidate stale keys on mutation
+[2026-02-04 13:03:35] feat(api): add endpoint validation and error schemas
