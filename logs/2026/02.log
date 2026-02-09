@@ -1,1 +1,1 @@
-[2026-02-09 14:43:02] docs: update changelog and version notes
+[2026-02-09 14:46:04] fix(auth): handle edge case in token expiration logic
