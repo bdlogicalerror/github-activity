@@ -1,1 +1,1 @@
-[2026-02-11 11:17:50] feat(config): add support for dynamic environment overrides
+[2026-02-11 11:19:08] fix(auth): handle edge case in token expiration logic
