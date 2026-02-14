@@ -1,1 +1,1 @@
-[2026-02-14 17:35:15] perf: optimize memory footprint during batch processing
+[2026-02-14 17:36:55] feat(client): improve retry backoff and timeout handling
