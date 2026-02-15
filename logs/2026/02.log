@@ -1,1 +1,1 @@
-[2026-02-15 20:02:31] docs: update changelog and version notes
+[2026-02-15 20:03:01] refactor(core): streamline state machine event dispatcher
