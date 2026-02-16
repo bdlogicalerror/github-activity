@@ -1,1 +1,1 @@
-[2026-02-16 16:06:17] docs: update changelog and version notes
+[2026-02-16 16:08:39] perf: optimize memory footprint during batch processing
