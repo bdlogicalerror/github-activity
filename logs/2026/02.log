@@ -1,1 +1,1 @@
-[2026-02-18 10:27:58] perf(render): memoize expensive calculations
+[2026-02-18 10:30:27] fix(cache): invalidate stale keys on mutation
