@@ -1,1 +1,1 @@
-[2026-02-19 08:47:23] feat(config): add support for dynamic environment overrides
+[2026-02-19 08:51:53] feat(client): improve retry backoff and timeout handling
