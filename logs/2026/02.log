@@ -1,1 +1,1 @@
-[2026-02-20 12:34:30] fix(auth): handle edge case in token expiration logic
+[2026-02-20 12:35:40] feat(api): add endpoint validation and error schemas
