@@ -1,1 +1,1 @@
-[2026-02-20 14:55:41] test(e2e): update integration test suite assertions
+[2026-02-20 14:56:22] fix(cli): correct flag parsing and default arguments
