@@ -1,1 +1,1 @@
-[2026-02-20 15:14:40] refactor(types): strengthen type contracts and interfaces
+[2026-02-20 15:15:06] perf: optimize memory footprint during batch processing
