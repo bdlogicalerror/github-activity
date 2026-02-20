@@ -1,1 +1,1 @@
-[2026-02-20 21:55:25] feat(client): improve retry backoff and timeout handling
+[2026-02-20 21:56:44] feat(api): add endpoint validation and error schemas
