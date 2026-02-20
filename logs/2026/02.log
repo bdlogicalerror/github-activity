@@ -1,1 +1,1 @@
-[2026-02-20 21:25:10] test(unit): add assertions for boundary conditions
+[2026-02-20 21:26:13] refactor(core): streamline state machine event dispatcher
