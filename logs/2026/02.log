@@ -1,1 +1,1 @@
-[2026-02-26 14:27:33] fix(cache): invalidate stale keys on mutation
+[2026-02-26 14:28:03] fix(auth): handle edge case in token expiration logic
