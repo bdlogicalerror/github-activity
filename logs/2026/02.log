@@ -1,1 +1,1 @@
-[2026-02-27 08:54:07] fix(parser): resolve unexpected EOF on malformed input
+[2026-02-27 09:01:01] test(unit): add assertions for boundary conditions
