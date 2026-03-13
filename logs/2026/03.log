@@ -1,1 +1,1 @@
-[2026-03-13 14:19:36] chore(deps): bump internal packages and tooling
+[2026-03-13 14:22:16] refactor(core): streamline state machine event dispatcher
