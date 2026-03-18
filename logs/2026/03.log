@@ -1,1 +1,1 @@
-[2026-03-18 18:03:26] docs(readme): update setup and architecture notes
+[2026-03-18 18:04:37] feat(client): improve retry backoff and timeout handling
