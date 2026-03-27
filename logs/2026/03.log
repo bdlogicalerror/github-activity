@@ -1,1 +1,1 @@
-[2026-03-27 21:49:57] perf: optimize memory footprint during batch processing
+[2026-03-27 22:46:25] fix(parser): resolve unexpected EOF on malformed input
