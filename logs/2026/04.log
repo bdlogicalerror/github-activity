@@ -1,1 +1,1 @@
-[2026-04-07 08:42:57] fix(auth): handle edge case in token expiration logic
+[2026-04-07 08:43:33] fix(parser): resolve unexpected EOF on malformed input
