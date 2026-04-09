@@ -1,1 +1,1 @@
-[2026-04-09 11:23:28] chore(ci): update workflow configuration and runner cache
+[2026-04-09 11:25:52] perf(db): optimize query indexes and connection pooling
