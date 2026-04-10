@@ -1,1 +1,1 @@
-[2026-04-10 20:56:57] perf: optimize memory footprint during batch processing
+[2026-04-10 21:03:11] refactor(core): streamline state machine event dispatcher
