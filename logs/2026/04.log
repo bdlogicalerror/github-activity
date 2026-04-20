@@ -1,1 +1,1 @@
-[2026-04-20 14:57:36] docs: update changelog and version notes
+[2026-04-20 15:03:52] fix(cli): correct flag parsing and default arguments
