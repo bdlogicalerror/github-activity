@@ -1,1 +1,1 @@
-[2026-04-23 12:39:35] fix(auth): handle edge case in token expiration logic
+[2026-04-23 12:40:29] test(unit): add assertions for boundary conditions
