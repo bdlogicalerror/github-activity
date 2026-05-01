@@ -1,1 +1,1 @@
-[2026-05-01 12:32:35] fix(cache): invalidate stale keys on mutation
+[2026-05-01 12:33:38] feat(client): improve retry backoff and timeout handling
