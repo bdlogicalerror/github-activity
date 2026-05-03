@@ -1,1 +1,1 @@
-[2026-05-03 20:29:18] feat: enhance telemetry reporting pipeline
+[2026-05-03 20:31:38] feat(worker): implement graceful shutdown for queue listener
