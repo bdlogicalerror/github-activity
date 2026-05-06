@@ -1,1 +1,1 @@
-[2026-05-06 20:12:08] fix(parser): resolve unexpected EOF on malformed input
+[2026-05-06 20:13:42] test(e2e): update integration test suite assertions
