@@ -1,1 +1,1 @@
-[2026-05-06 20:07:31] feat(config): add support for dynamic environment overrides
+[2026-05-06 20:08:33] perf(render): memoize expensive calculations
