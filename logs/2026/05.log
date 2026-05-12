@@ -1,1 +1,1 @@
-[2026-05-12 11:45:44] chore: routine maintenance and code cleanup
+[2026-05-12 11:49:35] feat(client): improve retry backoff and timeout handling
