@@ -1,1 +1,1 @@
-[2026-05-13 14:49:20] style(ui): clean up padding and typography hierarchy
+[2026-05-13 14:53:59] perf(render): memoize expensive calculations
