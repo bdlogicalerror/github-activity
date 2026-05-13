@@ -1,1 +1,1 @@
-[2026-05-13 23:43:34] refactor(utils): extract helper functions into module
+[2026-05-13 23:44:24] feat(client): improve retry backoff and timeout handling
