@@ -1,1 +1,1 @@
-[2026-05-15 12:23:10] chore(deps): bump internal packages and tooling
+[2026-05-15 12:25:15] feat(config): add support for dynamic environment overrides
