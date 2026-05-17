@@ -1,1 +1,1 @@
-[2026-05-17 18:30:55] refactor(utils): extract helper functions into module
+[2026-05-17 20:19:45] feat(worker): implement graceful shutdown for queue listener
