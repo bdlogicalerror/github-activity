@@ -1,1 +1,1 @@
-[2026-05-18 11:45:08] feat(worker): implement graceful shutdown for queue listener
+[2026-05-18 11:46:30] refactor(types): strengthen type contracts and interfaces
