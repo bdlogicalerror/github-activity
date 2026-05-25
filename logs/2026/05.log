@@ -1,1 +1,1 @@
-[2026-05-25 11:28:20] fix(cli): correct flag parsing and default arguments
+[2026-05-25 11:32:50] refactor(utils): extract helper functions into module
