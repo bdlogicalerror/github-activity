@@ -1,1 +1,1 @@
-[2026-05-29 19:28:39] docs: update changelog and version notes
+[2026-05-29 19:33:58] perf(db): optimize query indexes and connection pooling
