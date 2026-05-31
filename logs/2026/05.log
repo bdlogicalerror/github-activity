@@ -1,1 +1,1 @@
-[2026-05-31 15:59:22] feat: enhance telemetry reporting pipeline
+[2026-05-31 18:42:58] fix(auth): handle edge case in token expiration logic
