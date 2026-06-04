@@ -1,1 +1,1 @@
-[2026-06-04 20:46:30] style(ui): clean up padding and typography hierarchy
+[2026-06-04 20:47:22] feat(worker): implement graceful shutdown for queue listener
