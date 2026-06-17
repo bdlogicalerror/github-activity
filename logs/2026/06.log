@@ -1,1 +1,1 @@
-[2026-06-17 16:50:02] test(e2e): update integration test suite assertions
+[2026-06-17 16:52:47] perf(db): optimize query indexes and connection pooling
