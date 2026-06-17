@@ -1,1 +1,1 @@
-[2026-06-17 23:04:51] fix(auth): handle edge case in token expiration logic
+[2026-06-17 23:05:09] feat(worker): implement graceful shutdown for queue listener
