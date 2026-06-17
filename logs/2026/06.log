@@ -1,1 +1,1 @@
-[2026-06-17 18:26:37] perf(db): optimize query indexes and connection pooling
+[2026-06-17 18:28:03] refactor(utils): extract helper functions into module
