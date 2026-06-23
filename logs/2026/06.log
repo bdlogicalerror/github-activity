@@ -1,1 +1,1 @@
-[2026-06-23 19:01:18] feat(api): add endpoint validation and error schemas
+[2026-06-23 19:04:48] feat(worker): implement graceful shutdown for queue listener
