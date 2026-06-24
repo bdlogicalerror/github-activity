@@ -1,1 +1,1 @@
-[2026-06-24 11:22:21] fix(parser): resolve unexpected EOF on malformed input
+[2026-06-24 11:24:39] fix(cli): correct flag parsing and default arguments
