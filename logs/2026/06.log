@@ -1,1 +1,1 @@
-[2026-06-24 20:05:01] docs(api): clarify parameter descriptions and examples
+[2026-06-24 20:11:30] perf(db): optimize query indexes and connection pooling
