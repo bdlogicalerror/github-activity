@@ -1,1 +1,1 @@
-[2026-06-25 09:09:47] test(unit): add assertions for boundary conditions
+[2026-06-25 09:11:17] fix(cli): correct flag parsing and default arguments
