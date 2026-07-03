@@ -1,1 +1,1 @@
-[2026-07-03 16:20:24] fix(cli): correct flag parsing and default arguments
+[2026-07-03 16:21:30] fix(auth): handle edge case in token expiration logic
