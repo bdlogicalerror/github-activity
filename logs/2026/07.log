@@ -1,1 +1,1 @@
-[2026-07-07 10:23:28] perf(render): memoize expensive calculations
+[2026-07-07 10:29:05] refactor(utils): extract helper functions into module
