@@ -1,1 +1,1 @@
-[2026-07-09 12:00:51] fix(parser): resolve unexpected EOF on malformed input
+[2026-07-09 12:00:01] refactor(utils): extract helper functions into module
