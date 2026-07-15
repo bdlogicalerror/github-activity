@@ -1,1 +1,1 @@
-[2026-07-15 09:17:38] chore(deps): bump internal packages and tooling
+[2026-07-15 09:18:28] perf: optimize memory footprint during batch processing
