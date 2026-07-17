@@ -1,1 +1,1 @@
-[2026-07-17 19:44:55] docs: update changelog and version notes
+[2026-07-17 19:45:42] fix(parser): resolve unexpected EOF on malformed input
