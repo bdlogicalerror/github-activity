@@ -1,1 +1,1 @@
-[2026-07-17 17:44:13] refactor(utils): extract helper functions into module
+[2026-07-17 17:48:48] fix(auth): handle edge case in token expiration logic
