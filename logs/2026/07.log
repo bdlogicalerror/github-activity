@@ -1,1 +1,1 @@
-[2026-07-17 12:07:09] feat(config): add support for dynamic environment overrides
+[2026-07-17 12:08:24] fix(parser): resolve unexpected EOF on malformed input
