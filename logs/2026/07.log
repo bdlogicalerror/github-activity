@@ -1,1 +1,1 @@
-[2026-07-22 18:57:39] fix(cli): correct flag parsing and default arguments
+[2026-07-22 18:58:44] feat(worker): implement graceful shutdown for queue listener
