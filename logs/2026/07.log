@@ -1,1 +1,1 @@
-[2026-07-23 20:54:29] feat(api): add endpoint validation and error schemas
+[2026-07-23 20:59:42] fix(cli): correct flag parsing and default arguments
