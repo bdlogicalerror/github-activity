@@ -1,1 +1,1 @@
-[2026-07-27 21:02:39] refactor(core): streamline state machine event dispatcher
+[2026-07-27 21:07:42] fix(parser): resolve unexpected EOF on malformed input
