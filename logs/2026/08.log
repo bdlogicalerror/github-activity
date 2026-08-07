@@ -1,1 +1,1 @@
-[2026-08-07 19:59:27] perf(db): optimize query indexes and connection pooling
+[2026-08-07 20:00:53] fix(cache): invalidate stale keys on mutation
