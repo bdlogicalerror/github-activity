@@ -1,1 +1,1 @@
-[2026-08-07 12:43:15] fix(parser): resolve unexpected EOF on malformed input
+[2026-08-07 12:45:23] perf(render): memoize expensive calculations
