@@ -1,1 +1,1 @@
-[2026-08-15 21:15:48] test(e2e): update integration test suite assertions
+[2026-08-15 21:17:29] feat(worker): implement graceful shutdown for queue listener
