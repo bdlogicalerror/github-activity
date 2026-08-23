@@ -1,1 +1,1 @@
-[2026-08-23 15:58:32] chore(ci): update workflow configuration and runner cache
+[2026-08-23 16:45:04] feat(worker): implement graceful shutdown for queue listener
