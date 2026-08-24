@@ -1,1 +1,1 @@
-[2026-08-24 20:42:22] style(ui): clean up padding and typography hierarchy
+[2026-08-24 20:44:57] fix(parser): resolve unexpected EOF on malformed input
