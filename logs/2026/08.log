@@ -1,1 +1,1 @@
-[2026-08-29 14:20:32] test(e2e): update integration test suite assertions
+[2026-08-29 14:23:55] fix(auth): handle edge case in token expiration logic
