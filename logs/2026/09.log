@@ -1,1 +1,1 @@
-[2026-09-04 18:29:38] feat(api): add endpoint validation and error schemas
+[2026-09-04 18:29:18] feat(config): add support for dynamic environment overrides
