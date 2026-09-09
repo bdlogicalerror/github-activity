@@ -1,1 +1,1 @@
-[2026-09-09 14:19:04] feat(config): add support for dynamic environment overrides
+[2026-09-09 14:21:24] refactor(core): streamline state machine event dispatcher
