@@ -1,1 +1,1 @@
-[2026-09-12 11:20:54] style(ui): clean up padding and typography hierarchy
+[2026-09-12 11:21:27] refactor(utils): extract helper functions into module
