@@ -1,1 +1,1 @@
-[2026-09-15 17:29:01] style(ui): clean up padding and typography hierarchy
+[2026-09-15 17:31:12] fix(cache): invalidate stale keys on mutation
