@@ -1,1 +1,1 @@
-[2026-09-17 10:19:52] perf: optimize memory footprint during batch processing
+[2026-09-17 10:27:50] feat(api): add endpoint validation and error schemas
