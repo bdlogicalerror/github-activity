@@ -1,1 +1,1 @@
-[2026-09-23 17:01:45] style(ui): clean up padding and typography hierarchy
+[2026-09-23 17:02:43] fix(auth): handle edge case in token expiration logic
