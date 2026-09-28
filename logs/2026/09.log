@@ -1,1 +1,1 @@
-[2026-09-28 22:03:21] chore(ci): update workflow configuration and runner cache
+[2026-09-28 22:04:54] fix(auth): handle edge case in token expiration logic
