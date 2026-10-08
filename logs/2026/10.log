@@ -1,1 +1,1 @@
-[2026-10-08 11:37:29] docs(api): clarify parameter descriptions and examples
+[2026-10-08 11:38:30] feat(client): improve retry backoff and timeout handling
