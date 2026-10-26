@@ -1,1 +1,1 @@
-[2026-10-26 21:41:51] refactor(core): streamline state machine event dispatcher
+[2026-10-26 21:43:00] fix(auth): handle edge case in token expiration logic
