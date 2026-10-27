@@ -1,1 +1,1 @@
-[2026-10-27 17:26:55] test(unit): add assertions for boundary conditions
+[2026-10-27 17:27:56] feat(worker): implement graceful shutdown for queue listener
