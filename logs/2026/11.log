@@ -1,1 +1,1 @@
-[2026-11-06 17:10:05] refactor(core): streamline state machine event dispatcher
+[2026-11-06 17:16:07] feat(client): improve retry backoff and timeout handling
