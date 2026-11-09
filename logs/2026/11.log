@@ -1,1 +1,1 @@
-[2026-11-09 11:25:42] test(e2e): update integration test suite assertions
+[2026-11-09 11:27:12] feat(client): improve retry backoff and timeout handling
