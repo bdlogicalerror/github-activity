@@ -1,1 +1,1 @@
-[2026-11-09 16:25:16] refactor(utils): extract helper functions into module
+[2026-11-09 16:31:10] feat(api): add endpoint validation and error schemas
