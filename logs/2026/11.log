@@ -1,1 +1,1 @@
-[2026-11-10 14:21:32] refactor(core): streamline state machine event dispatcher
+[2026-11-10 14:23:01] feat(api): add endpoint validation and error schemas
