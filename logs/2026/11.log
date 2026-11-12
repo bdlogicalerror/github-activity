@@ -1,1 +1,1 @@
-[2026-11-12 15:04:41] docs(api): clarify parameter descriptions and examples
+[2026-11-12 15:06:39] feat(worker): implement graceful shutdown for queue listener
