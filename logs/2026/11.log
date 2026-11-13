@@ -1,1 +1,1 @@
-[2026-11-13 10:49:40] fix(parser): resolve unexpected EOF on malformed input
+[2026-11-13 10:50:44] feat(api): add endpoint validation and error schemas
